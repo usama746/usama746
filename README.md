@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usama</h1>
 <h3 align="center">A committed front-end developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Bootstrap , CCS**
+- 🌱 I’m currently learning **Bootstrap , CSS , JAVASCRIPT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
